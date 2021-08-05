@@ -1,0 +1,9 @@
+{
+  "sourceModule": true;
+  "Content": {
+    "sourceType": module;
+    "JS": true;
+    "room": 1;
+    "name": "SepticEye room";
+  }
+}
